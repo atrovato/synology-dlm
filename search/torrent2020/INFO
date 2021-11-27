@@ -1,0 +1,10 @@
+{
+"name": "torrent2020",
+"displayname": "Torrent2020",
+"description": "French torrent searcher",
+"version": "1.0",
+"site": "https://torrent2020.fr",
+"module": "search.php",
+"type": "search",
+"class": "Torrent2020"
+}
