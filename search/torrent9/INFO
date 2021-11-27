@@ -2,7 +2,7 @@
   "name": "torrent9",
   "displayname": "Torrent9",
   "description": "French torrent searcher",
-  "version": "2.0",
+  "version": "1.0",
   "site": "https://www.torrent9.pw",
   "module": "search.php",
   "type": "search",
