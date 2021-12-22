@@ -1,0 +1,10 @@
+{
+  "name": "limetorrents",
+  "displayname": "LimeTorrents",
+  "description": "Torrent searcher",
+  "version": "1.0",
+  "site": "https://www.limetorrents.to/",
+  "module": "search.php",
+  "type": "search",
+  "class": "LimeTorrents"
+}
